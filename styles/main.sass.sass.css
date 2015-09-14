@@ -1,0 +1,14 @@
+#submitbtn {
+  margin: 0 auto;
+  width: 10em;
+  font-family: Coda, Arial, sans-serif;
+  font-size: 1em;
+  height: 3em;
+  margin-top: 10em;
+  border: none;
+  color: #FEDA00;
+  background: #ED2400;
+  border-radius: .3em; }
+
+.wrapper {
+  text-align: center; }
